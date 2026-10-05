@@ -1,0 +1,1 @@
+{"name":"Local: vigenere_cypher","url":"/home/kali/University_Lab/Network_and_Security/vigenere_cypher.cpp","tests":[{"id":1791175086694,"input":"SHEISLISTENING\nPASCAL\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/kali/University_Lab/Network_and_Security/vigenere_cypher.cpp","group":"local","local":true}
