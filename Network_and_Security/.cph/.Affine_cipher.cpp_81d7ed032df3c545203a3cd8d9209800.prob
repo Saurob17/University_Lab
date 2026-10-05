@@ -1,0 +1,1 @@
+{"name":"Local: Affine_cipher","url":"/home/kali/University_Lab/Network_and_Security/Affine_cipher.cpp","tests":[{"id":1789362931759,"input":"hello\n3\n5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/kali/University_Lab/Network_and_Security/Affine_cipher.cpp","group":"local","local":true}
